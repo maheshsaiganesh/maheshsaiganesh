@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @maheshsaiganesh
-- 👀 I’m interested in writing and hiking.
-- 🌱 I’m currently learning C++ and HTML/CSS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in running and climbing.
+- 🌱 I’m currently learning Python
 - 📫 You can reach me at maheshwar.saiganesh@gmail.cm
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have flexible thumbs
+- ⚡ Fun fact: I like dogs
 
 <!---
 maheshsaiganesh/maheshsaiganesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
